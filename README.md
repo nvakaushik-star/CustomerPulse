@@ -111,7 +111,6 @@ CustomerPulse/
 │   └── CustomerPulse.ipynb     # EDA, segmentation and scoring analysis
 ├── data/
 │   └── README.md               # Dataset setup instructions
-├── images/                     # Dashboard screenshots / visuals
 ├── requirements.txt
 ├── .gitignore
 └── README.md
