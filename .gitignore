@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local data
+saas_accounts.csv
+data/*.csv
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs / caches
+*.log
+.pytest_cache/
